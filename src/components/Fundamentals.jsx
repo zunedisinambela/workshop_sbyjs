@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function fundamental() {
+function Fundamentals() {
   let judul = "Tokopedia"
   let produk = [
     "Apple",
@@ -70,4 +70,4 @@ function ItemCard({ judul, price, total, picture }) {
   )
 }
 
-export default fundamental
+export default Fundamentals
